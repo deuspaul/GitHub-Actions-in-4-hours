@@ -11,7 +11,7 @@ Repository with associated lab files from the Learn GitHub Actions in 4 hours li
 
 2. Make sure you have NPM installed in your system, if you don’t have it installed follow the documentation in the following link:  
    [https://nodejs.org/en/download/](https://nodejs.org/en/download/)<br>
-   ![image](./images/media/nodejs.png)
+   ![image](./images/media/nodeJS.png)
 <br><br><br>
 
 ## 🧪 Labs
